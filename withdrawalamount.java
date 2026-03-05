@@ -1,18 +1,3 @@
-/*Create a simple ATM program:
-Initial balance = 10000
-
-Ask user to enter withdrawal amount
-
-If amount > balance → Print "Insufficient Balance"
-
-Else if amount <= 0 → Print "Invalid Amount"
-
-Else → Deduct amount and print remaining balance*/
-
-
-
-
-
 package com.index.pack;
 
 import java.util.Scanner;
