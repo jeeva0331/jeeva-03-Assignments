@@ -7,7 +7,7 @@ class Test {
             Arrays.asList(1, 2, 3, 4, 5)
         );
 
-        int k = 1;
+        int k = 2;
 
         for (int i = 0; i < k; i++) {
             int last = list.remove(list.size() - 1);
